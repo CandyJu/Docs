@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Juni Gear'
+project = 'Дискорд бот Juni Gead'
 copyright = '2022, Candy'
 author = 'Candy'
 
