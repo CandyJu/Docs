@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
-===================================
+Добро пожаловать на документацию бота Juni Gear.
+====
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Juni Gear**  - это новый игровой бот.
 
 .. note::
 
-   This project is under active development.
+   Документация все ещё находиться на стадии разработки.
 
-Contents
+Контент
 --------
 
 .. toctree::
-
-   usage
-   api
+   Лабиринт
